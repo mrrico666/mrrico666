@@ -1,5 +1,3 @@
-<!---
-mrrico666
  ███████████  ████    *31337*         █████      █████   █████            █████   
 ░░███░░░░░███░░███                    ░░███      ░░███   ░░███            ░░███    
  ░███    ░███ ░███   ██████    ██████  ░███ █████ ░███    ░███   ██████   ███████  
@@ -26,4 +24,3 @@ mrrico666
 Always hunting for talented persons in the privacy space. coders, ethical hackers
 UI, Design, software, Android, Asterix, security experts and hobyists alike!
 If you have any skills listed above. HMU always open to support up and coming talent too!
---->
