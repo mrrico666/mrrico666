@@ -1,3 +1,4 @@
+<pre> 
  ███████████  ████    *31337*         █████      █████   █████            █████   
 ░░███░░░░░███░░███                    ░░███      ░░███   ░░███            ░░███    
  ░███    ░███ ░███   ██████    ██████  ░███ █████ ░███    ░███   ██████   ███████  
@@ -24,3 +25,4 @@
 Always hunting for talented persons in the privacy space. coders, ethical hackers
 UI, Design, software, Android, Asterix, security experts and hobyists alike!
 If you have any skills listed above. HMU always open to support up and coming talent too!
+</pre>
